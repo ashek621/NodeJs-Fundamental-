@@ -1,0 +1,5 @@
+vxLsXCLjfy4o2zMB
+
+ashekdemo
+
+mongodb+srv://ashekdemo:MgtCZAgtlmwmUPFc@cluster0.dmoycrj.mongodb.net/test
